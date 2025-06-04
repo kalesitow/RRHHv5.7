@@ -1,0 +1,28 @@
+{
+  "sistema_info": {
+    "version": "1.0",
+    "ultima_actualizacion": "2025-06-04T18:21:19.001328",
+    "total_empleados": 1
+  },
+  "empleados": [
+    {
+      "cedula": "1013100405",
+      "nombre": "kevin",
+      "apellido": "rodriguez",
+      "cargo": "ingeniero",
+      "salario_base": 2000000.0,
+      "tipo_contrato": "indefinido",
+      "telefono": "3114325",
+      "email": "kevin",
+      "valoracion": 5,
+      "activo": true,
+      "historial_nominas": [],
+      "historial_valoraciones": [
+        {
+          "fecha": "2025-06-04T18:21:15.940718",
+          "valoracion": 5
+        }
+      ]
+    }
+  ]
+}
